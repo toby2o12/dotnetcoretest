@@ -1,0 +1,11 @@
+D:\git\dotnetcoretest\bin\Debug\netcoreapp2.0\dotnetcoretest.deps.json
+D:\git\dotnetcoretest\bin\Debug\netcoreapp2.0\dotnetcoretest.runtimeconfig.json
+D:\git\dotnetcoretest\bin\Debug\netcoreapp2.0\dotnetcoretest.runtimeconfig.dev.json
+D:\git\dotnetcoretest\bin\Debug\netcoreapp2.0\dotnetcoretest.dll
+D:\git\dotnetcoretest\bin\Debug\netcoreapp2.0\dotnetcoretest.pdb
+D:\git\dotnetcoretest\obj\Debug\netcoreapp2.0\dotnetcoretest.csproj.CoreCompileInputs.cache
+D:\git\dotnetcoretest\obj\Debug\netcoreapp2.0\dotnetcoretest.AssemblyInfoInputs.cache
+D:\git\dotnetcoretest\obj\Debug\netcoreapp2.0\dotnetcoretest.AssemblyInfo.cs
+D:\git\dotnetcoretest\obj\Debug\netcoreapp2.0\dotnetcoretest.dll
+D:\git\dotnetcoretest\obj\Debug\netcoreapp2.0\dotnetcoretest.pdb
+D:\git\dotnetcoretest\obj\Debug\netcoreapp2.0\dotnetcoretest.csprojResolveAssemblyReference.cache
